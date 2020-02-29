@@ -21,11 +21,21 @@
 /* -----phablet----480 to 767-- */
 @media only screen and (max-width:767px) {
 
+
+
     .logo {
         display: inline-block;
         height: 100px;
         width: auto;
         margin-top: 5px 0;
+    }
+
+    .icon-big {
+        font-size: 250%;
+        display: block;
+        color: #f39c12;
+        text-align: center;
+
     }
 
     body {
@@ -103,7 +113,8 @@
 
     .long-copy {
         width: 100%;
-        margin-left:
+        margin-left: 15px;
+
     }
 
 
@@ -153,11 +164,18 @@
     }
 
     .social-links {
-        margin-right: 35%;
+        margin-right: 29%;
     }
 
     .footer-nav {
-        margin-left: 37px;
+        margin-left: 25px;
+        display: inline-block;
+
+    }
+
+    .footer-nav li {
+        margin-right: 10px;
+
     }
 }
 
@@ -181,8 +199,15 @@
     }
 
     .long-copy {
-        width: 80%;
-        margin-left: 10%;
+        width: 90%;
+        margin-left: 15px;
+    }
+
+
+
+
+    .section-features .first {
+        padding: 0;
     }
 
     .steps-box {
