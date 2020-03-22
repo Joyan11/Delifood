@@ -1,5 +1,5 @@
 # Delifood
 
-Delifood.netlify.com
+[link] (Delifood.netlify.com)
 
-A responsive website for a fictional food delivery company called delifood build using HTML5, CSS3 and some jquery for animations
+A single page responsive website for a fictional food delivery company called delifood build using HTML5, CSS3 and some jquery for animations
