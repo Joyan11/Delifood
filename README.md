@@ -2,4 +2,4 @@
 
 [link] (https://Delifood.netlify.com)
 
-A single page responsive website for a fictional food delivery company called delifood build using HTML5, CSS3 and some jquery for animations . The Project was coursework from a udemy course
+A single page responsive website for a fictional food delivery company called delifood build using HTML5, CSS3 and some jquery for animations.
